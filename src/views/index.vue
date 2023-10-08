@@ -1,5 +1,8 @@
 <template>
   <div class="app-container home">
+    <div class="text-blue-500">
+      123
+    </div>
     <el-row :gutter="20">
       <el-col :sm="24" :lg="24">
         <blockquote class="text-warning" style="font-size: 14px">
